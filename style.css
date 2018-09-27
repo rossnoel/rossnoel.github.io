@@ -24,4 +24,5 @@ color:red;
 }
 .ptag{
     display:flex;
+    justify-content:center;
 }
